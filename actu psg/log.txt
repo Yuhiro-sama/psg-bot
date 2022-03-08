@@ -1,0 +1,66 @@
+2022-03-04 14:21:02.266113 : Error occured :
+ Command raised an exception: TypeError: unsupported operand type(s) for +: 'bool' and 'str'
+
+2022-03-04 14:22:08.447743 : Error occured :
+ Command raised an exception: OperationalError: no such column: captcha
+
+2022-03-04 14:23:09.785432 : Error occured :
+ Command raised an exception: OperationalError: no such column: captcha
+
+2022-03-04 16:58:13.242950 : Error occured :
+ Command raised an exception: TypeError: tuple indices must be integers or slices, not str
+
+2022-03-04 17:11:28.968840 : Error occured :
+ Command raised an exception: IndexError: No item with that key
+
+2022-03-04 17:11:36.122112 : Error occured :
+ Command raised an exception: IndexError: No item with that key
+
+2022-03-04 17:34:18.448283 : Error occured :
+ Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+2022-03-04 17:34:33.860391 : Error occured :
+ Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+2022-03-05 12:42:43.108171 : Error occured :
+ Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+2022-03-05 13:09:07.662395 : Error occured :
+ Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+2022-03-05 13:10:52.257413 : Error occured :
+ Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+
+2022-03-05 13:10:56.036610 : Error occured :
+ Command raised an exception: OperationalError: no such column: '', '702136277910159401'
+
+2022-03-05 13:12:30.336594 : Error occured :
+ Command raised an exception: OperationalError: unrecognized token: "{"
+
+2022-03-05 13:12:31.508531 : Error occured :
+ Command raised an exception: OperationalError: unrecognized token: "{"
+
+2022-03-05 13:13:03.733463 : Error occured :
+ Command raised an exception: OperationalError: row value misused
+
+2022-03-05 13:15:26.950356 : Error occured :
+ Command raised an exception: OperationalError: near ",": syntax error
+
+2022-03-05 13:16:04.688548 : Error occured :
+ Command raised an exception: IndexError: list index out of range
+
+2022-03-07 19:58:03.829649 : Error occured :
+ Command raised an exception: AttributeError: 'NoneType' object has no attribute 'encode'
+
+2022-03-07 20:27:55.200577 : Error occured :
+ Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'xp.json'
+
+2022-03-07 20:33:58.972600 : Error occured :
+ Command raised an exception: KeyError: 'role'
+
+2022-03-07 20:36:56.675472 : Error occured :
+ Role "L'invasion" not found.
+
+2022-03-07 20:42:59.793821 : Error occured :
+ Command raised an exception: AttributeError: 'str' object has no attribute 'id'
+
